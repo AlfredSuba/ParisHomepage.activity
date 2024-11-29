@@ -1,0 +1,1 @@
+# ParisHomepage.activity
